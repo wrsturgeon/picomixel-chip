@@ -1,0 +1,44 @@
+### Footprint positions - created on 2025-04-10T00:00:27-0700 ###
+### Printed by KiCad version 9.0.0
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                 Package                                                    PosX       PosY       Rot  Side
+C1        2u2                 C_1206_3216Metric                                       24.3840   -35.4330  -90.0000  top
+C2        15p                 C_0402_1005Metric                                       19.0500   -54.2290  -90.0000  top
+C3        15p                 C_0402_1005Metric                                       23.2410   -54.0740  -90.0000  top
+C4        100n                C_0402_1005Metric                                       17.3990   -31.7500   90.0000  top
+C5        4u7                 C_0402_1005Metric_small_pads                            24.2570   -41.5290    0.0000  top
+C6        100n                C_0402_1005Metric                                       22.7330   -35.4330  -90.0000  top
+C7        4u7                 C_0402_1005Metric_small_pads                            24.2570   -40.6400    0.0000  top
+C8        10u                 C_0402_1005Metric                                       28.3210   -41.0210  -90.0000  top
+C9        100n                C_0402_1005Metric                                       27.4320   -44.1960    0.0000  top
+C10       4u7                 C_0402_1005Metric_small_pads                            26.0350   -41.5290    0.0000  top
+C11       4u7                 C_0402_1005Metric_small_pads                            22.2250   -51.1810  -90.0000  top
+C12       100n                C_0402_1005Metric                                       17.1450   -45.3390  180.0000  top
+C13       100n                C_0402_1005Metric                                       22.6060   -41.0210   90.0000  top
+C14       100n                C_0402_1005Metric                                       27.4320   -45.0850    0.0000  top
+C15       100n                C_0402_1005Metric_small_pads                            25.7530   -51.1810  -90.0000  top
+C16       100n                C_0402_1005Metric                                       17.6530   -43.4340  -90.0000  top
+C17       100n                C_0402_1005Metric_small_pads                            17.1450   -47.1170  180.0000  top
+C18       100n                C_0402_1005Metric_small_pads                            20.7010   -51.1810  -90.0000  top
+C19       100n                C_0402_1005Metric                                       27.4320   -41.0210  -90.0000  top
+C20       100n                C_0402_1005Metric                                       25.4000   -61.7220    0.0000  top
+J1        Conn_01x02_Pin      AMASS_XT30PW-M_1x02_P2.50mm_Horizontal                  25.4000   -30.4800    0.0000  top
+J3        SM03B-SRSS-TB       JST_SH_SM03B-SRSS-TB_1x03-1MP_P1.00mm_Horizontal        26.9240   -54.8640   90.0000  top
+J5        Bus_Out             JST_EH_S4B-EH_1x04_P2.50mm_Horizontal                   26.6100   -64.1425  180.0000  top
+L1        3.3u                L_pol_2016                                              27.4320   -38.8620    0.0000  top
+L2        3u3                 L_pol_2016                                              24.2570   -39.1160    0.0000  top
+R1        10K                 R_0402_1005Metric                                       27.4320   -42.4180  180.0000  top
+R2        1K                  R_0402_1005Metric                                       27.4320   -43.3070    0.0000  top
+R3        1K                  R_0402_1005Metric                                       23.2410   -52.1970  -90.0000  top
+R4        1K                  R_0402_1005Metric                                       28.7020   -44.7040   90.0000  top
+R5        33R                 R_0402_1005Metric                                       26.0350   -40.6400  180.0000  top
+R6        10K                 R_0402_1005Metric                                       17.1450   -46.2280  180.0000  top
+R7        120R                R_0402_1005Metric                                       23.7490   -59.1820  -90.0000  top
+SW1       SW_Push             SW_Push_1P1T_NO_Vertical_Wuerth_434133025816            28.0670   -48.6840  -90.0000  top
+U1        W25Q128JVS          SOIC-8_5.3x5.3mm_P1.27mm                                19.3040   -37.3380   90.0000  top
+U2        LMR50410Y3FQDBVRQ1  DBV0006A-MFG                                            27.1780   -35.4330   90.0000  top
+U3        RP2350_60QFN        RP2350-QFN-60-1EP_7x7_P0.4mm_EP3.4x3.4mm_ThermalVias    22.2250   -46.1010    0.0000  top
+U4        MAX3078E            SOIC-8_3.9x4.9mm_P1.27mm                                19.5580   -59.1820    0.0000  top
+Y1        ABM8-272-T3         Crystal_SMD_3225-4Pin_3.2x2.5mm                         21.0820   -54.2290  -90.0000  top
+## End
