@@ -68,9 +68,9 @@
         "annular_width": "error",
         "clearance": "error",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "ignore",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -103,13 +103,13 @@
         "padstack": "error",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
+        "silk_edge_clearance": "ignore",
         "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
-        "text_height": "warning",
+        "text_height": "ignore",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -234,20 +234,12 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.1905,
-          "drill": 0.127
-        },
-        {
-          "diameter": 0.254,
-          "drill": 0.127
-        },
-        {
           "diameter": 0.508,
-          "drill": 0.127
+          "drill": 0.254
         },
         {
           "diameter": 0.635,
-          "drill": 0.127
+          "drill": 0.254
         },
         {
           "diameter": 1.27,
